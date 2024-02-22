@@ -2,6 +2,5 @@
     <string name="app_name">Fullscreen Dialog Demo</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="fullscreen_title">FullScreen Dialog</string>
-    <string name="show_me_the_dialog">Show me the dialog!</string>
+    <string name="fullscreen_dialog">FullScreen Dialog</string>
 </resources>

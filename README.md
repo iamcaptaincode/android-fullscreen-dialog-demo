@@ -1,1 +1,0 @@
-# android-fullscreen-dialog-demo
