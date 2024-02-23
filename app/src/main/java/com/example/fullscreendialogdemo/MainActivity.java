@@ -20,12 +20,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 FullScreenDialog dialog = new FullScreenDialog();
                 dialog.show(getSupportFragmentManager(), "dialog");
-
-                /*getSupportFragmentManager()
-                        .beginTransaction()
-                        .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
-                        .add(android.R.id.content, new FullScreenDialog())
-                        .addToBackStack(null).commit();*/
             }
         });
     }
